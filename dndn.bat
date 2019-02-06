@@ -1,3 +1,3 @@
-node dndn.js
+node bot.js
 
 pause
